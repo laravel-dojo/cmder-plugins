@@ -1,4 +1,4 @@
-# cmder-plugins
+# 為 artisan 準備的 cmder 自動補全外掛集
 
 我們為 [cmder](http://bliker.github.io/cmder/) 這套免安裝的終端機程式撰寫了一系列與 Laravel 開發相關的 completion 外掛為 `cmder-plugins`。若您使用 Windows 系列作業系統做為開發 Laravel 的平台，那我們強烈建議您使用 `cmder` 取代內建 cmd.exe。安裝完這些外掛後，可達成如下的效果：
 
@@ -21,7 +21,9 @@
 
 ## 外掛列表
 
-* composer (dependency manager for php)
-* artisan (laravel command line tool)
+* [composer](https://getcomposer.org/) (dependency manager for php)
+* [artisan](http://laravel.com/docs/4.2/artisan) (laravel command-line interface)
+* [homestead](http://laravel.com/docs/4.2/homestead) (laravel local development vagrant box)
+* [envoy](http://laravel.com/docs/4.2/ssh#envoy-task-runner) (laravel task runner)
 
 (更多外掛增加中…)
