@@ -25,5 +25,6 @@
 * [artisan](http://laravel.com/docs/4.2/artisan) (laravel command-line interface)
 * [homestead](http://laravel.com/docs/4.2/homestead) (laravel local development vagrant box)
 * [envoy](http://laravel.com/docs/4.2/ssh#envoy-task-runner) (laravel task runner)
+* [laravel-installer](http://laravel.com/docs/4.2/installation#install-laravel) (laravel project installer)
 
 (更多外掛增加中…)
