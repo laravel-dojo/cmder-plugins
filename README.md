@@ -22,9 +22,7 @@
 ## 外掛列表
 
 * [composer](https://getcomposer.org/) (dependency manager for php)
-* [artisan](http://laravel.com/docs/4.2/artisan) (laravel command-line interface)
-* [homestead](http://laravel.com/docs/4.2/homestead) (laravel local development vagrant box)
-* [envoy](http://laravel.com/docs/4.2/ssh#envoy-task-runner) (laravel task runner)
-* [laravel-installer](http://laravel.com/docs/4.2/installation#install-laravel) (laravel project installer)
-
-(更多外掛增加中…)
+* [artisan](http://laravel.com/docs/5.1/artisan) (laravel command-line interface)
+* [homestead](https://packagist.org/packages/laravel/homestead) (laravel local development vagrant box)
+* [envoy](https://packagist.org/packages/laravel/envoy) (laravel task runner)
+* [laravel-installer](https://packagist.org/packages/laravel/installer) (laravel project installer)
